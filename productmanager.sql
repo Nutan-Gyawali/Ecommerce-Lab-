@@ -65,9 +65,6 @@ CREATE TABLE `product` (
 
 INSERT INTO `product` (`id`, `name`, `category_id`, `price`, `description`) VALUES
 (1, 'Belladonna', 4, '', 'Adalyn Grace'),
-(2, 'Belladonna', 4, '1158', 'Adalyn Grace'),
-(3, 'Belladonna', 4, '1158', 'Adalyn Grace'),
-(4, 'Belladonna', 4, '1158', 'Adalyn Grace'),
 (5, 'pothos', 11, '111', 'green'),
 (6, 'pothosss', 11, '111', 'green'),
 (7, 'zebra plant', 11, '121', 'small plant'),
